@@ -1,0 +1,26 @@
+{
+  "name": "classical-hangman",
+  "version": "1.0.0",
+  "description": "Hangman game using Node.js and OOPs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanleo94/week-11-hw-/.git"
+  },
+  "keywords": [
+    "Hangman",
+    "game"
+  ],
+  "author": "ivanleo94",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanleo94/week-11-hw/issues"
+  },
+  "homepage": "https://github.com/ivanleo94/week-11-hw#readme",
+  "dependencies": {
+    "inquirer": "^1.2.2"
+  }
+}
